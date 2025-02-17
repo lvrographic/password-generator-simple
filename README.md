@@ -15,7 +15,7 @@ This is a lightweight and easy-to-use password generator that helps users create
 ✅ Simple, clean, and easy to use  
 
 ## 📸 Screenshot  
-![Password Generator Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot)  
+![Password Generator Screenshot](https://i.imgur.com/EsfpWJu.png)  
 
 ---
 
